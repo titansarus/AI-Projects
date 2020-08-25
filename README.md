@@ -1,7 +1,6 @@
 # AI-Projects
-Sharif University of Technology - Artificial Intelligence Projects - Spring2020
 
-## Programming and Documentation: Amirmahdi Namjoo
+### Programming and Documentation: Amirmahdi Namjoo
 
 
 * Artificial Intelligence Course Projects
