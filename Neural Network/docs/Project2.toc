@@ -1,0 +1,31 @@
+\contentsline {section}{\numberline {1}کتابخانه‌های موردنیاز}{3}{section.1}% 
+\contentsline {section}{\numberline {2}\lr {Optimizer} و \lr {Activation Function} ها}{4}{section.2}% 
+\contentsline {subsection}{\numberline {2.1}\lr {Optimizer} ها}{4}{subsection.2.1}% 
+\contentsline {subsection}{\numberline {2.2}\lr {Activation Function} ها}{5}{subsection.2.2}% 
+\contentsline {section}{\numberline {3}بخش اول}{6}{section.3}% 
+\contentsline {subsection}{\numberline {3.1}توضیحات کد}{6}{subsection.3.1}% 
+\contentsline {subsection}{\numberline {3.2}نتایج}{11}{subsection.3.2}% 
+\contentsline {section}{\numberline {4}بخش دوم}{14}{section.4}% 
+\contentsline {subsection}{\numberline {4.1}توضیحات کد}{14}{subsection.4.1}% 
+\contentsline {subsection}{\numberline {4.2}نتایج}{15}{subsection.4.2}% 
+\contentsline {section}{\numberline {5}بخش سوم}{17}{section.5}% 
+\contentsline {subsection}{\numberline {5.1}توضیحات کد}{17}{subsection.5.1}% 
+\contentsline {subsection}{\numberline {5.2}نتایج}{18}{subsection.5.2}% 
+\contentsline {section}{\numberline {6}بخش چهارم}{21}{section.6}% 
+\contentsline {subsection}{\numberline {6.1}توضیحات کد}{21}{subsection.6.1}% 
+\contentsline {subsection}{\numberline {6.2}نتایج}{25}{subsection.6.2}% 
+\contentsline {section}{\numberline {7}بخش پنجم}{27}{section.7}% 
+\contentsline {subsection}{\numberline {7.1}توضیحات کد}{27}{subsection.7.1}% 
+\contentsline {subsection}{\numberline {7.2}نتایج}{29}{subsection.7.2}% 
+\contentsline {section}{\numberline {8}بخش ششم}{30}{section.8}% 
+\contentsline {subsection}{\numberline {8.1}توضیحات کد}{30}{subsection.8.1}% 
+\contentsline {subsection}{\numberline {8.2}نتایج}{34}{subsection.8.2}% 
+\contentsline {section}{\numberline {9}بخش هفتم}{37}{section.9}% 
+\contentsline {section}{\numberline {10}رابط کاربری}{38}{section.10}% 
+\contentsline {subsection}{\numberline {10.1}بخش اول}{38}{subsection.10.1}% 
+\contentsline {subsection}{\numberline {10.2}بخش دوم}{39}{subsection.10.2}% 
+\contentsline {subsection}{\numberline {10.3}بخش سوم}{40}{subsection.10.3}% 
+\contentsline {subsection}{\numberline {10.4}بخش چهارم}{41}{subsection.10.4}% 
+\contentsline {subsection}{\numberline {10.5}بخش پنجم}{42}{subsection.10.5}% 
+\contentsline {subsection}{\numberline {10.6}بخش ششم}{43}{subsection.10.6}% 
+\contentsline {section}{\numberline {11}چالش‌ها}{44}{section.11}% 
